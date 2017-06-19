@@ -1,0 +1,12 @@
+body {
+    background-color:cornflowerblue;
+}
+h1 {
+    color: darkorange;
+}
+.Friends {
+    background-color: purple;
+}
+div p {
+    text-transform: capitalize;
+}
